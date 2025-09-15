@@ -79,7 +79,7 @@ print(vehicles[3].charge(20))
 print(vehicles[3].battery_status())
 ```
 
-3. 🧩 Why self Matters
+3. **🧩 Why self Matters**
 
 Every Python object instance stores its own data.
 
@@ -87,7 +87,7 @@ self is required to access instance attributes and methods.
 
 Missing self leads to errors (demonstrated by BadCar vs GoodCar examples).
 
-4. 📚 Concepts Covered
+4. **📚 Concepts Covered**
 
 - Abstract Base Classes (ABC)
 - Multiple Inheritance
@@ -95,3 +95,7 @@ Missing self leads to errors (demonstrated by BadCar vs GoodCar examples).
 - Encapsulation
 - Instance identity (id(self))
 - Graph-based visualization with NetworkX & Plotly
+
+5. **Flowchart**
+![Flowchart](flowchart_static.png)
+![Flowchart2](flowchart_static2.png)
