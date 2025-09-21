@@ -97,5 +97,5 @@ Missing self leads to errors (demonstrated by BadCar vs GoodCar examples).
 - Graph-based visualization with NetworkX & Plotly
 
 5. **Flowchart**
-![Flowchart](flowchart_static.png)
-![Flowchart2](flowchart_static2.png)
+![Flowchart](flowchart_static.svg)
+![Flowchart2](flowchart_static2.svg)
